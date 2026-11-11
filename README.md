@@ -42,12 +42,6 @@ In the difficult years after 2020 (the 2020 pandemic crash and the 2022 energy s
 - Only the sample covariance estimator is used, and there are no weight caps
 - Differences in Sharpe ratio are not tested for statistical significance
 
-## Repository structure
-```
-├── FMA_B_Meloni_895982.ipynb   # full pipeline: data, models, backtest, evaluation
-├── FMA_B_Meloni_895982.pdf     # exported report
-└── README.md
-```
 
 ## How to run
 ```bash
